@@ -1,0 +1,15 @@
+/Users/lissaprokopenko/Desktop/1/1/bin/Debug/net6.0/1
+/Users/lissaprokopenko/Desktop/1/1/bin/Debug/net6.0/1.deps.json
+/Users/lissaprokopenko/Desktop/1/1/bin/Debug/net6.0/1.runtimeconfig.json
+/Users/lissaprokopenko/Desktop/1/1/bin/Debug/net6.0/1.dll
+/Users/lissaprokopenko/Desktop/1/1/bin/Debug/net6.0/1.pdb
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/1.dll
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/refint/1.dll
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/1.pdb
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+/Users/lissaprokopenko/Desktop/1/1/obj/Debug/net6.0/ref/1.dll
